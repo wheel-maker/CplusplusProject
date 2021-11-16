@@ -22,4 +22,4 @@
 
 3. **主要功能的实现**
 
-   ![](F:\Github\C-project\hanoiTower\imgs\process.png)
+   ![](https://github.com/wheel-maker/CplusplusProject/blob/main/hanoiTower/imgs/process.png)
